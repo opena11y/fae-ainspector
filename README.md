@@ -5,9 +5,7 @@ Collect and track issues for FAE 2.0 and AInspector Sidebar
 
 * Go to 'Issues' via the right-hand menu, then select 'New Issue'
 
-* Select either the 'fae' or 'ainspector' label
-
-* Select other labels as appropriate, e.g., 'bug' or 'question'
+* Under 'Label' select either 'fae' or 'ainspector'
 
 * In the Title field, enter a brief description of the issue
 
@@ -15,7 +13,7 @@ Collect and track issues for FAE 2.0 and AInspector Sidebar
 
   * Describe the issue in detail
 
-  * Add additional lines with prefixes followed by data needed for reproducing the problem, e.g.,
+  * Add additional lines with prefixes followed by data needed for reproducing the problem, such as:
   <blockquote>
   URL: mydomain.com<br>
   Depth: 2<br>
