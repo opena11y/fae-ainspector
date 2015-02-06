@@ -13,7 +13,7 @@ Collect and track issues for FAE 2.0 and AInspector Sidebar
 
   * Describe the issue in detail
 
-  * Add additional lines with prefixes followed by data needed for reproducing the problem, such as:
+  * Add additional lines with prefixes and data that would enable someone else to reproduce the problem exactly as you encountered it. For example:
   <blockquote>
   URL: mydomain.com<br>
   Depth: 2<br>
