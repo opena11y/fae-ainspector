@@ -2,11 +2,13 @@
 Collect and track issues for FAE 2.0 and AInspector Sidebar
 
 ## To submit an issue
-1. Select either the FAE or AInspector label
+* Select either the 'fae' or 'ainspector' label
 
-2. Describe the issue, i.e., the problem as you are experiencing it
+* Select other labels as appropriate, e.g., 'bug' or 'question'
 
-3. Add data items needed for reproducing the problem, e.g.
-  * URL
-  * Depth
-  * Ruleset
+* Describe the issue, i.e., the problem as you are experiencing it
+
+* Add additional lines with prefixes followed by data needed for reproducing the problem, e.g.
+  * URL: mydomain.com
+  * Depth: 2
+  * Ruleset: HTML4 Legacy Techniques
