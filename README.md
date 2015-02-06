@@ -8,9 +8,11 @@ Select either the 'fae' or 'ainspector' label
 
 Select other labels as appropriate, e.g., 'bug' or 'question'
 
-Describe the issue, i.e., the problem as you are experiencing it
+In the Title field, enter a brief description of the issue
 
-Add additional lines with prefixes followed by data needed for reproducing the problem, e.g.,
+In the 'Leave a comment' textbox:
+* Describe the issue in detail
+* Add additional lines with prefixes followed by data needed for reproducing the problem, e.g.,
 
 * URL: mydomain.com
 * Depth: 2
