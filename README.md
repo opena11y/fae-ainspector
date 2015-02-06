@@ -2,7 +2,7 @@
 Collect and track issues for FAE 2.0 and AInspector Sidebar
 
 ## To submit an issue
-Go to 'Issues' in the right-hand menu and select 'New Issue'
+Go to 'Issues' via the right-hand menu, then select 'New Issue'
 
 Select either the 'fae' or 'ainspector' label
 
