@@ -1,5 +1,9 @@
-WHICH TOOL: (FAE or AInspector Sidebar)
+TOOL: (FAE 2.0 or AInspector Sidebar)
 
-URL:
+RULESET: (HTML5/ARIA Techniques or HTML4 Legacy Techniques)
 
-ISSUE DESCRIPTION:
+DESCRIPTION:
+
+URL: (of page evaluated where issue was observed)
+
+STEPS TO REPRODUCE: (e.g., how to navigate to view or report)
