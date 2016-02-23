@@ -1,6 +1,0 @@
-WHICH TOOL: (FAE or AInspector Sidebar)
-
-URL:
-
-ISSUE DESCRIPTION:
-
