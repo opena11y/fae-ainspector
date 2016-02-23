@@ -1,7 +1,4 @@
-WHICH TOOL: Mark with [x]
-
-[] FAE 2.0
-[] AInspector Sidebar
+WHICH TOOL: (FAE or AInspector Sidebar)
 
 URL:
 
